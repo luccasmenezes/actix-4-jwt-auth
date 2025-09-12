@@ -10,8 +10,8 @@ edition = "2021"
 keywords = ["actix", "http", "web", "cryptography"]
 license = "MIT"
 name = "actix-4-jwt-auth"
-repository = "https://github.com/spectare/actix-4-jwt-auth"
-version = "1.2.6"
+repository = "https://github.com/digilectron/actix-4-jwt-auth"
+version = "1.2.7"
 
 [package.metadata.docs.rs]
 rustdoc-args = ["--cfg", "docsrs"]
